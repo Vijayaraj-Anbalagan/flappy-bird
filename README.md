@@ -1,6 +1,6 @@
 # Flappy Bird: KCG Edition
 
-[Flappy Bird KCG Edition]
+#Flappy Bird KCG Edition
 
 ## Introduction
 "Flappy Bird: KCG Edition" is a delightful variation of the classic Flappy Bird game, specially designed for KCG College. In this customized version, players take control of a KCG College-themed bird, guiding it skillfully through clock tower obstacles instead of conventional pipes. The game's straightforward and addictive gameplay allows players of all ages to enjoy the challenge of achieving their highest score. With its nostalgic twist and unique visuals, "Flappy Bird: KCG Edition" offers a refreshing experience that evokes the college spirit. Dive into this embrace the fun and excitement of flapping through the clock tower obstacles in this 
